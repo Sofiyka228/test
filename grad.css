@@ -1,0 +1,15 @@
+    #grad1 {
+            height: 200px;
+            background-color:cornflowerblue; /* For browsers that do not support gradients */
+            background-image: linear-gradient(cornflowerblue, pink)
+    }
+    #grad2 {
+        height: 200px;
+            background-color:aqua; /* For browsers that do not support gradients */
+            background-image: linear-gradient(to right, aqua, violet)
+    }
+  #grad3 {
+       height: 200px;
+            background-color:darkslateblue; /* For browsers that do not support gradients */
+            background-image: linear-gradient(to bottom right,darkslateblue, chocolate)
+  }
